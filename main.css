@@ -1,0 +1,26 @@
+img {
+    width: 200px;
+    margin-top: 15px;
+    border: solid 3px goldenrod;
+}
+
+body {
+    text-align: center;
+}
+
+header {
+    background: lightcoral;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 15px;
+}
+
+p {
+    line-height: .25;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    color: goldenrod;
+}
+
+ul {
+    list-style-type: none;
+}
